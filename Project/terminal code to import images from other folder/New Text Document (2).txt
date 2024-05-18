@@ -1,0 +1,2 @@
+PS C:\Users\harii\model\images\project\colorization> python demo_release.py 
+PS C:\Users\harii\model\images\project\colorization> python demo_release.py -i imgs/image3.jpeg
